@@ -1,8 +1,4 @@
 import { useState } from "react";
-import WatchedSummary from "./WatchedSummary";
-import WatchList from "./WatchList";
-
-
 
 function Box({children}) {
 
